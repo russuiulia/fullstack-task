@@ -1,0 +1,12 @@
+
+button{
+  width: 3rem;
+  border-radius: 5px;
+  border: 1px solid #000;
+  background-color: #fff;
+  font: inherit;
+  padding-left: 0.5rem;
+}
+form div{
+  display: inline;
+}
